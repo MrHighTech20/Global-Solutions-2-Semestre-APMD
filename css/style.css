@@ -14,7 +14,7 @@
     --bg-destak: #2d2d2d;
     --font-color: #fff;
     --font-hlight: #f06;
-    font-size: 8px;
+    font-size: 10px;
 }
 
 body {
@@ -92,7 +92,7 @@ nav li:last-child {
     content: '';
     height: 120%;
     width: 100%;
-    background-image: url("https://www.themoviedb.org/t/p/original/nW5fUbldp1DYf2uQ3zJTUdachOu.jpg");
+    background-image: url("https://mobilidade.estadao.com.br/wp-content/uploads/2020/09/entrega-com-drones.jpg");
     background-position-y: -200px;
     position: absolute;
     background-size: cover;
